@@ -1,0 +1,4 @@
+[submodule "a4o_common_logging"]
+	path = a4o_common_logging
+	url = https://gitlab.com/aoe_modules/a4o_common_logging.git
+	branch = 12.0
